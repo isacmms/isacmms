@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![isacmms's stats](https://github-readme-stats-three-lime-86.vercel.app/api?username=isacmms&show_icons=true)
 
+![isacmms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isacmms&theme=vue-dark&hide_border=true)
 ![isacmms's Streak](https://github-readme-stats-three-lime-86.vercel.app/?user=isacmms&theme=vue-dark&hide_border=true)
 
 ![isacmms's Top Languages](https://github-readme-stats-three-lime-86.vercel.app/api/top-langs/?username=isacmms&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
