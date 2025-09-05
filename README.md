@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![isacmms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isacmms&theme=vue-dark&theme=transparent&show_icons=true&hide_border=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats-three-lime-86.vercel.app/api/top-langs/?username=isacmms&theme=transparent&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=20)
-![Top Langs](https://github-readme-stats-three-lime-86.vercel.app/api/wakatime/?username=isacmms)
+<!-- ![Top Langs](https://github-readme-stats-three-lime-86.vercel.app/api/top-langs/?username=isacmms&theme=transparent&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=20) -->
+<!-- ![Top Langs](https://github-readme-stats-three-lime-86.vercel.app/api/wakatime/?username=isacmms) -->
 
 <!-- &theme=transparent&show_icons=true&hide_border=true&count_private=true -->
