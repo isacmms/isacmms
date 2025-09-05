@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![isacmms's stats](https://github-readme-stats-three-lime-86.vercel.app/api?username=isacmms&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
+![isacmms's stats](https://github-readme-stats-three-lime-86.vercel.app/api?username=isacmms&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact&show=prs_merged,prs_merged_percentage)
 
 ![isacmms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isacmms&theme=vue-dark&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
 
