@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![isacmms's stats](https://github-readme-stats-three-lime-86.vercel.app/api?username=isacmms&theme=github_dark&show_icons=true&hide_border=true&count_private=true&layout=compact&show=prs_merged,prs_merged_percentage)
+![isacmms's stats](https://github-readme-stats-three-lime-86.vercel.app/api?username=isacmms&theme=transparent&show_icons=true&hide_border=true&count_private=true&layout=compact&show=prs_merged,prs_merged_percentage)
 
-![isacmms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isacmms&theme=vue-dark&theme=github_dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
+![isacmms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isacmms&theme=vue-dark&theme=transparent&show_icons=true&hide_border=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats-three-lime-86.vercel.app/api/top-langs/?username=isacmms&theme=github_dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats-three-lime-86.vercel.app/api/top-langs/?username=isacmms&theme=transparent&show_icons=true&hide_border=true&count_private=true&layout=compact)
 <!-- ![isacmms's Top Languages](https://github-readme-stats-three-lime-86.vercel.app/api/top-langs/?username=isacmms&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact) -->
